@@ -24,8 +24,6 @@ Para ejecutar el programa:
    git clone <URL_DEL_REPOSITORIO>
    cd <NOMBRE_DEL_DIRECTORIO>
    Ejecuta el archivo main.py para probar la funcionalidad.
-   bash
-   Copiar código
    python main.py
    Ingresa las dimensiones de la foto cuando se te solicite y observa cómo se manejan las excepciones si se ingresan valores fuera del rango permitido.
    Ejemplo de Uso
